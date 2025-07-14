@@ -23,14 +23,15 @@
 
 ### ✨ Fun Facts
 
-- 🎤 I organized and spoke at [TEDxTarsusAmericanCollege](https://www.youtube.com/watch?v=CgStMd02Fo0)
+- I organized [TEDxTarsusAmericanCollege2023](https://www.ted.com/tedx/events/53141) and spoke at [TEDxTarsusAmericanCollege2024](https://www.ted.com/tedx/events/58380)
+- [Watch my TEDx talk](https://www.youtube.com/watch?v=CgStMd02Fo0)
 
 ---
 
 ### 🔗 Connect With Me
 
-- 📫 Instagram: [alpartun_g](https://www.instagram.com/alpartun_g/)
-- 💼 LinkedIn: [alpartungunhan](https://linkedin.com/in/alpartungunhan)
+- Instagram: [alpartun_g](https://www.instagram.com/alpartun_g/)
+- LinkedIn: [alpartungunhan](https://linkedin.com/in/alpartungunhan)
 
 ---
 
