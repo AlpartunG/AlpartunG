@@ -8,8 +8,8 @@ Currently seeking Software Engineering internship opportunities for Summer 2027,
 
 ### Featured Projects
 
-- **Doin** — A full-stack social discovery platform connecting people through shared interests and activities.
-- **OpenGrocery** — A grocery price comparison and shopping list management platform built with React, Express.js, and PostgreSQL.
+- **[Doin](https://github.com/agile-students-fall2026/generic-mern-stack-project-doin)** — A full-stack social discovery platform connecting people through shared interests and activities.
+- **[OpenGrocery](https://github.com/eliotkominer/CS-3083-OpenGrocery-Project)** — A grocery price comparison and shopping list management platform built with React, Express.js, and PostgreSQL.
 
 ### Technologies & Tools
 
