@@ -1,24 +1,28 @@
-<h1 align="center">Hi, I'm Alpartun👋</h1>
+# Hi, I'm Alpartun!
 
-<p align="center">
-  🎓 Computer Science student at NYU Abu Dhabi &nbsp;|&nbsp; 🇹🇷 Turkish &nbsp;|&nbsp; Passionate about tech, traveling, languages, and cultures
-</p>
+I'm a third-year Computer Science student at New York University Abu Dhabi, minoring in Applied Mathematics.
 
----
+I'm interested in software engineering, full-stack development, artificial intelligence, and building technology that solves real-world problems.
 
-### ✨ Fun Facts
+Currently seeking Software Engineering internship opportunities for Summer 2027, particularly in the UAE and Türkiye.
 
-- I organized [TEDxTarsusAmericanCollege2023](https://www.ted.com/tedx/events/53141) and spoke at [TEDxTarsusAmericanCollege2024](https://www.ted.com/tedx/events/58380)
-- [Watch my TEDx talk here](https://www.youtube.com/watch?v=CgStMd02Fo0)
+### Featured Projects
 
----
+- **Doin** — A full-stack social discovery platform connecting people through shared interests and activities.
+- **OpenGrocery** — A grocery price comparison and shopping list management platform built with React, Express.js, and PostgreSQL.
 
-### 🔗 Connect With Me
+### Technologies & Tools
 
-- Instagram: [alpartun_g](https://www.instagram.com/alpartun_g/)
-- LinkedIn: [alpartungunhan](https://linkedin.com/in/alpartungunhan)
+- **Languages:** Python, JavaScript, C++, C, SQL
+- **Web Development:** React, Node.js, Express.js, HTML, CSS
+- **Databases:** PostgreSQL, SQL Server
+- **Tools:** Git, GitHub, Mocha, Chai
 
----
+### Beyond Coding
 
-_Thanks for visiting my profile! More projects and updates coming soon (I hope)_
+I'm passionate about leadership, entrepreneurship, languages, and exploring different cultures. I've also organized a TEDx event and delivered a TEDx talk.
 
+### Connect with Me
+
+- LinkedIn: [LinkedIn](https://linkedin.com/in/alpartungunhan/)
+- Email: [ag10195@nyu.edu](mailto\:ag10195@nyu.edu)
