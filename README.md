@@ -24,5 +24,5 @@ I'm passionate about leadership, entrepreneurship, languages, and exploring diff
 
 ### Connect with Me
 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/alpartungunhan/)
+- [LinkedIn](https://linkedin.com/in/alpartungunhan/)
 - Email: [ag10195@nyu.edu](mailto\:ag10195@nyu.edu)
